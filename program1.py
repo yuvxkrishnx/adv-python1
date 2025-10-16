@@ -1,0 +1,7 @@
+tamil=int(input("Enter the tamil marks: "))
+english=int(input("Enter the english marks: "))
+maths=int(input("Enter the maths marks: "))     
+science=int(input("Enter the science marks: "))
+social=int(input("Enter the social marks: "))
+print("Total marks:",tamil+english+maths+science+social)
+print("Average marks:",(tamil+english+maths+science+social)/5)
